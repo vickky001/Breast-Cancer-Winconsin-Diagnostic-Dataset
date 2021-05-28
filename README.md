@@ -1,4 +1,4 @@
-##This repository contains the comparison of various machine learning algorithms and EDA
+## This repository contains the comparison of various machine learning algorithms and EDA
 
 # Breast-Cancer-Winconsin-Diagnostic-Dataset
 Breast Cancer Winconsin (Diagnostic) Dataset
