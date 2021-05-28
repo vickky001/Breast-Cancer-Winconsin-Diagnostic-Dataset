@@ -1,3 +1,5 @@
+##This repository contains the comparison of various machine learning algorithms and EDA
+
 # Breast-Cancer-Winconsin-Diagnostic-Dataset
 Breast Cancer Winconsin (Diagnostic) Dataset
 Objective: To predict whether the cancer is benign or malignant
@@ -24,4 +26,4 @@ Missing attribute values: none
 
 Class distribution: 357 benign, 212 malignant
 
-## Outcome: I found that Logistic Rgression and KNN provides maximum accuracy while Decision Trees and Naive Bayes provides lowest accuracy.
+#### Outcome: I found that Logistic Rgression and KNN provides maximum accuracy while Decision Trees and Naive Bayes provides lowest accuracy.
